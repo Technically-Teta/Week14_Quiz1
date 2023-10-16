@@ -6,7 +6,7 @@ You have just joined your favorite company and have been tasked with printing ne
 
 1. `git clone https://github.com/daaimah123/Week14_Quiz1.git` 
 
-2. `rm -rf .git`
+2. `rm -rf .git` -- `create new repo - Week14_Quiz - git init`
 
 3. in client gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
 4. in server gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
