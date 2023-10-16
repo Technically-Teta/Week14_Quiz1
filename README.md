@@ -3,10 +3,13 @@
 You have just joined your favorite company and have been tasked with printing new data to a webpage. However, the existing files/directories are all jumbled up, and the code seems to have errors. Fix the bugs and sile structure. 
 
 ## Fixed File Commmands:
-1.`git clone https://github.com/daaimah123/Week14_Quiz1.git`
-2.`rm -rf .git`
-3.in client gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
-4.in server gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
+
+1. `git clone https://github.com/daaimah123/Week14_Quiz1.git` 
+
+2. `rm -rf .git`
+
+3. in client gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
+4. in server gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
 5. `git mv client/server/ ./server`          --Correct the file architecture using command line
 
 
