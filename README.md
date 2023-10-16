@@ -6,13 +6,14 @@ You have just joined your favorite company and have been tasked with printing ne
 
 1. `git clone https://github.com/daaimah123/Week14_Quiz1.git` 
 
-2. `rm -rf .git` -- `create new repo - Week14_Quiz - git init`
+2. `rm -rf .git` --
+3. `create new repo - Week14_Quiz - git init` on command line
 
-3. in client gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
-4. in server gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
-5. `git mv client/server/ ./server`          --Correct the file architecture using command line/ Correct the server file’s directory by moving it to the appropriate directory
-6.  - document errors you encountered and how you fixed them, ---  - server 8080 was already running so I did to this kill the server  -- sudo lsof -iTCP:8080 -sTCP:LISTEN
-7.  - screenshot of the app's webpage:
+4. in client gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
+5. in server gitignore  - `**\node_modules`   --node_modules are committed, remove them from repo on GitHub
+6. `git mv client/server/ ./server`          --Correct the file architecture using command line/ Correct the server file’s directory by moving it to the appropriate directory
+7.  - document errors you encountered and how you fixed them, ---  - server 8080 was already running so I did to this kill the server  -- sudo lsof -iTCP:8080 -sTCP:LISTEN
+8.  - screenshot of the app's webpage:
   
     - 
       
